@@ -4,7 +4,7 @@ A small utility to get notify for 18+ vaccination slot availability by pincode.
 
 ## Installation
 
-`[sudo] npm install cowin-watch -g`
+`[sudo] npm install cowin-watch@latest -g`
 
 ## Demo
 
