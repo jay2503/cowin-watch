@@ -1,6 +1,6 @@
 {
   "name": "cowin-watch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Vaccination slot watcher",
   "main": "index.js",
   "repository": {
