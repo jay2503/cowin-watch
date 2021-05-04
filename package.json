@@ -1,0 +1,45 @@
+{
+  "name": "cowin-watch",
+  "version": "1.0.0",
+  "description": "Vaccination slot watcher",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jay2503/cowin-watch.git"
+  },
+  "keywords": [
+    "cowin",
+    "vaccination",
+    "watcher",
+    "schedule",
+    "india vaccination watcher"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jay Mehta <jaym2503@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "commander": "^7.2.0",
+    "moment": "^2.29.1",
+    "node-notifier": "^9.0.1"
+  },
+  "files": [
+    "lib",
+    "bin"
+  ],
+  "contributors": [
+    {
+      "name": "Jay Mehta",
+      "email": "jaym2503@gmail.com"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/jay2503/cowin-watch/issues"
+  },
+  "preferGlobal": true,
+  "bin": {
+    "cowin-watch": "./bin/cowin-watch"
+  }
+}
