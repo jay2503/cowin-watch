@@ -9,6 +9,7 @@ A small utility to get notify for 18+ vaccination slot availibity by pincode.
 ## Demo
 
 [Demo](cowin.gif)
+![Demo](cowin.gif?raw=true "Demo")
 
 ## Usage
 
