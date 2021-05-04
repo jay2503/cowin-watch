@@ -21,6 +21,7 @@ A small utility to get notify for 18+ vaccination slot availability by pincode.
 ```sh
 crontab -e
 */5 * * * * cowin-watch -p 382481
+*/5 * * * * cowin-watch -p 380061
 ```
 
 ## Setup Cron (Windows)
