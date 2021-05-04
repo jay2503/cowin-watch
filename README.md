@@ -1,6 +1,6 @@
 # About
 
-A small utility to get notify for 18+ vaccination slot availibity by pincode.
+A small utility to get notify for 18+ vaccination slot availability by pincode.
 
 ## Installation
 
@@ -11,7 +11,6 @@ A small utility to get notify for 18+ vaccination slot availibity by pincode.
 ![Demo](cowin.gif?raw=true "Demo")
 
 [Demo](cowin.gif)
-
 
 ## Usage
 
@@ -26,4 +25,4 @@ crontab -e
 
 ## Setup Cron (Windows)
 
-Someonce can contribute please! I don't have Windows system.
+Someone can contribute please! I don't have Windows system.
