@@ -12,6 +12,12 @@ A small utility to get notify for 18+ vaccination slot availability by pincode.
 
 [Demo](cowin.gif)
 
+## One time setup - Allow Notification Permission (Mac/Linux)
+
+for security reasons, Mac is asking for permission for sending notification, so check by sending test notification as follows.
+
+`cowin-watch -t`
+
 ## Usage
 
 `cowin-watch -p 382481`
