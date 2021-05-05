@@ -18,6 +18,8 @@ for security reasons, Mac is asking for permission for sending notification, so 
 
 `cowin-watch -t`
 
+![Notification](cowin-test-note.png?raw=true "Notification")
+
 ## Usage
 
 `cowin-watch -p 382481`
