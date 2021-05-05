@@ -23,7 +23,6 @@ if (options.test) {
 }
 
 if (options.watch) {
-  console.log(options.watch);
   watcher.watchZips(options.watch);
   // process.exit();
 }
